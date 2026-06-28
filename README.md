@@ -12,7 +12,7 @@ The project demonstrates JavaScript concepts such as DOM manipulation, event han
 
   Live Website
  
-https://chaitra317.github.io/quiz/
+https://chaitra810-dev.github.io/Quiz/
 
 Source Code
 
@@ -72,7 +72,7 @@ skillcheck-pro/
 
 ### Clone the Repository
 
-git clone Chaitra317/quiz
+git clone chaitra810-dev/quiz
 
 
 ### Open the Project Folder
@@ -112,12 +112,12 @@ Contributions and suggestions are welcome.
 
 ## 📬 Contact
 
-GitHub: https://github.com/Chaitra317
+GitHub: https://github.com/chaitra810-dev
 
 LinkedIn: https://www.linkedin.com/in/chaitra-shivabasannavar
 
 Live Demo: 
-https://chaitra317.github.io/quiz/
+https://chaitra810-dev.github.io/Quiz/
 
 ---
 
