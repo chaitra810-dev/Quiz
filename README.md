@@ -16,7 +16,7 @@ https://chaitra317.github.io/quiz/
 
 Source Code
 
-https://github.com/Chaitra317/quiz
+https://github.com/chaitra810-dev/Quiz.git
 
 ---
 
